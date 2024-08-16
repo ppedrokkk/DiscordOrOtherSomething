@@ -1,3 +1,5 @@
+# inspirado no famoso cantor brasileiro Leno Brega, resolvi fazer esse tema para BetterDiscord e outros client./inspired by the famous Brazilian singer Leno Brega, I decided to make this theme for BetterDiscord and other clients.
+
 # esse tema tem duas versões, com cada uma com cada um tendo uma diferença simples./This theme has two versions, with each having a simple difference.
 
 # bregatheme.theme.css
