@@ -1,3 +1,3 @@
 # DiscordOrOtherSomething
-some themes and addons for BetterDiscord or other discord client mods
+some themes and plugins for BetterDiscord or other discord client mods
 
