@@ -1,0 +1,68 @@
+/**
+ * @name brega theme
+ * @author DevilBro
+ * @version 1.0.5
+ * @description Allows you to use a background image without greatly altering the basic look of Discord.
+ * @source https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Themes/BasicBackground/BasicBackground.theme.css
+ * @invite Jx3TjNS
+ * @donate https://www.paypal.me/MircoWittrien
+ * @patreon https://www.patreon.com/MircoWittrien
+ * @website https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BasicBackground
+ * @authorId 278543574059057154
+ * @BDEditor BasicBackground
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=comic+sans+ms:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --background: url('https://lastfm.freetls.fastly.net/i/u/ar0/3147132525dcc2b9182d71d8bb1874a9.jpg');
+  --backgroundsize: cover;
+  --backgroundposition: top right;
+  --backgroundblur: 0px;
+  --popout: url('https:A77aT00jMfSsXM/rs:fit/g:sm/q:90/h:554/w:554/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgyMzY2/NDctMTY3NjA3NDEz/MS03NjAwLmpwZWc.jpeg');
+  --popoutsize: auto;
+  --backgroundposition: top right;
+  --popoutblur: 0px;
+  --transparencycolor: 0,0,0;
+  --accentcolor: 173,26,114;
+  --backdrop: rgb(69,0,77,0.85);
+  --textshadow: transparent;
+  --transparencyalpha: 0.38;
+  --messagetransparency: 0.5;
+  --guildchanneltransparency: 0.26;
+  --chatinputtransparency: 0;
+  --memberlisttransparency: 0;
+  --font: comic sans ms;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 200,200,200;
+  --textdark: 160,160,160;
+  --textdarker: 125,125,125;
+  --textdarkest: 90,90,90;
+  --settingsicons: 1;
+  --backdropsize: var(--background-size);
+  --backdropblur: 0px;
+  --version1_0_5: none;
+  --HSL-server-icon-size: 45px;
+  --HSL-server-spacing: 10px;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
